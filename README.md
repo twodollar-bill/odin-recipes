@@ -1,2 +1,2 @@
 # odin-recipes
-write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
+The project is to create a recipe book in website form. It will demonstrate how to add links, images, and lists. It will cover everything I've learned about HTML and directory structuring so far and help to solidify it in my mind through repetition (building three separate recipe pages). It will also let me practice using git and github.
