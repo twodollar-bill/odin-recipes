@@ -13,7 +13,7 @@
     color: white;
     background-color: rgb(17, 96, 99);
     margin: 16px;
-    text-align: center;
+    text-align: left;
 }
 
 .home-options, p, .description {
@@ -29,14 +29,15 @@ a {
 }
 
 #chicken-img {
-    margin-left: 25%;
+    margin-left: 33%;
 }
 
-#beef-img {
-    margin-left: 5%;
+#beef-img, #salmon-img {
+    margin-left: 33%;
 }
 
 ul, ol {
     color: whitesmoke;
-    margin-left: 5%;
+    padding: 9px;
+    margin-left: 18px;
 }
